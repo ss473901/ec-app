@@ -10,7 +10,6 @@ const orderRoute = require("./routes/order");
 const cors = require("cors");
 
 dotenv.config();
-
 //mongoDBと接続
 mongoose
   .connect(process.env.MONGO_URL)
