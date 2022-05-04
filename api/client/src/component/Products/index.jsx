@@ -15,6 +15,7 @@ export const Products = ({ cat, filters, sort }) => {
             ? `https://ec-app-portfolio.herokuapp.com/api/products?category=${cat}`
             : `https://ec-app-portfolio.herokuapp.com/api/products`
         );
+        console.log(res.data);
         setProducts(res.data);
       } catch (err) {}
     };

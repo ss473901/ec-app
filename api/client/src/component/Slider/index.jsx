@@ -30,9 +30,7 @@ export const Slider = () => {
             <Styled.InfoContainer>
               <Styled.Title>{item.title}</Styled.Title>
               <Styled.Desc>{item.desc}</Styled.Desc>
-              <Link to={`/products`}>
-                <Styled.Button>SHOW NOW</Styled.Button>
-              </Link>
+              <Styled.Button>SHOW NOW</Styled.Button>
             </Styled.InfoContainer>
           </Styled.Slide>
         ))}
