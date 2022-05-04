@@ -104,12 +104,7 @@ export const Cart = () => {
 
           <Styled.Summary>
             <Styled.SummaryTitle>商品合計</Styled.SummaryTitle>
-            {/*ここから */}
-            {/* <Styled.SummaryItem>
-              <Styled.SummaryItemText>シャツ</Styled.SummaryItemText>
-              <Styled.SummaryItemPrice>{cart.total}円</Styled.SummaryItemPrice>
-            </Styled.SummaryItem> */}
-            {/* ここまで */}
+
             <Styled.SummaryItem type="total">
               <Styled.SummaryItemText></Styled.SummaryItemText>
               <Styled.SummaryItemPrice>{cart.total}円</Styled.SummaryItemPrice>
