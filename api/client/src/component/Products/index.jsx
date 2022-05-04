@@ -7,14 +7,13 @@ export const Products = ({ cat, filters, sort }) => {
   const [products, setProducts] = useState([]);
   const [filteredProducts, setFilteredProducts] = useState([]);
 
-
   useEffect(() => {
     const getProducts = async () => {
       try {
         const res = await axios.get(
           cat
-            ? `http://localhost:5001/api/products?category=${cat}`
-            : "http://localhost:5001/api/products"
+            ? `https://ec-app-portfolio.herokuapp.com/api/products?category=${cat}`
+            : `https://ec-app-portfolio.herokuapp.com/api/products`
         );
         setProducts(res.data);
       } catch (err) {}
