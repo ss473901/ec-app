@@ -2,8 +2,8 @@
 
 [Go to EC App](https://ec-app-portfolio.herokuapp.com/)
 
-- Login username : testuser@test.com
-- Password :testuser1234
+- Login username : 太郎
+- Password :123456
 
 ## 概要
 衣料品のオンラインストアです。
