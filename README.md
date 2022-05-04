@@ -1,6 +1,6 @@
 ## Application:EC Website
 
-[Go to EC App](https://github.com/ss473901/ec-app)
+[Go to EC App](https://ec-app-portfolio.herokuapp.com/)
 
 - Login username : testuser@test.com
 - Password :testuser1234
@@ -38,7 +38,7 @@
 #### ◆データベース
 - MongoDB v5.0.8
 
-## 開発方法
+#### ◆デプロイ
 
 ## 機能一覧
 | 機能                           | 概要                                                       |
