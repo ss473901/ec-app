@@ -22,7 +22,7 @@
 - Material-UI v @@@@
 - node-sass v @@@@
 - axios v0.26.1
-- Firebase v@@@ (Hosting)
+
 
 - react-dom v17.0.2
 - react-scripts v5.0.0
@@ -39,6 +39,7 @@
 - MongoDB v5.0.8
 
 #### ◆デプロイ
+- Heroku
 
 ## 機能一覧
 | 機能                           | 概要                                                       |
