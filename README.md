@@ -1,9 +1,10 @@
 ## Application:EC Website
 
-[Go to EC App]("https://ec-app-portfolio.herokuapp.com/")
+[Go to EC App](https://ec-app-portfolio.herokuapp.com/)
 
-- Login username : testuser@test.com
-- Password :testuser1234
+
+- Login username : 太郎
+- Password :123456
 
 ## 概要
 
@@ -23,7 +24,7 @@
 - Material-UI v @@@@
 - node-sass v @@@@
 - axios v0.26.1
-- Firebase v@@@ (Hosting)
+
 - react-dom v17.0.2
 - react-scripts v5.0.0
 
@@ -40,7 +41,7 @@
 
 - MongoDB v5.0.8
 
-#### デプロイ
+#### ◆デプロイ
 
 - Heroku
 
