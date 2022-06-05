@@ -21,8 +21,6 @@
 - react-stripe-checkout v2.6.3
 - redux-persist v6.0.0
 - styled-components v5.3.3
-- Material-UI v @@@@
-- node-sass v @@@@
 - axios v0.26.1
 
 - react-dom v17.0.2
