@@ -1,6 +1,6 @@
 ## Application:EC Website
 
-[Go to EC App](https://ec-app-portfolio.herokuapp.com/)
+[Go to EC App](https://ec-app-portfolio-13159feb663b.herokuapp.com/)
 
 
 - Login username : 太郎
